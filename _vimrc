@@ -71,3 +71,5 @@ nnoremap tj  :tabprev<CR>
 nnoremap tl  :tablast<CR>
 nnoremap tn  :tabnew<CR>
 nnoremap tc  :tabclose<CR>
+
+nnoremap <F2> :JSHint<CR>
